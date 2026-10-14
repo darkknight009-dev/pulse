@@ -1,0 +1,6 @@
+{
+  "name": "PayPulse",
+  "description": "Smart Paytm-linked card with AI financial coach and dynamic monthly spending limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
